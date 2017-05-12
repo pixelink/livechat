@@ -1,0 +1,39 @@
+{
+    "modules": [],
+    "properties": {
+        "backendModules": [],
+        "description": "Integrate the Live Chat from www.livechatinc.com in your TYPO3 Page. \nYou need an an account created at https:\/\/www.livechatinc.com",
+        "emConf": {
+            "category": "services",
+            "custom_category": "",
+            "dependsOn": "typo3 => 8.6.0-8.6.99\n",
+            "disableLocalization": false,
+            "disableVersioning": false,
+            "skipGenerateDocumentationTemplate": false,
+            "sourceLanguage": "en",
+            "state": "beta",
+            "targetVersion": "8.6.0-8.6.99",
+            "version": "0.0.0"
+        },
+        "extensionKey": "livechatinc",
+        "name": "Livechat Inc",
+        "originalExtensionKey": "",
+        "originalVendorName": "",
+        "persons": [
+            {
+                "company": "Pixel Ink",
+                "email": "typo3@pixel-ink.de",
+                "name": "Benjamin Riezler",
+                "role": "Developer"
+            }
+        ],
+        "plugins": [],
+        "vendorName": "Pixelink"
+    },
+    "wires": [],
+    "log": {
+        "last_modified": "2017-05-12 10:32",
+        "extension_builder_version": "8.6.0",
+        "be_user": " (1)"
+    }
+}

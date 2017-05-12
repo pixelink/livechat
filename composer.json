@@ -1,0 +1,22 @@
+{
+    "name": "pixelink/livechatinc",
+    "type": "typo3-cms-extension",
+    "description": "Integrate the Live Chat from www.livechatinc.com in your TYPO3 Page. \nYou need an an account created at https://www.livechatinc.com",
+    "homepage": "https://example.com",
+    "keywords": ["Live Chat", "Support Chat", "Chat"],
+    "author": [
+        {
+            "name": "Benjamin Riezler",
+            "role": "Developer",
+            "company": "Pixel Ink"
+        }
+    ],
+    "require": {
+        "typo3/cms-core": "^8.7.1"
+    },
+    "autoload": {
+        "psr-4": {
+            "Pixelink\\Livechatinc\\": "Classes"
+        }
+    }
+}

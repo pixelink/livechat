@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<xliff version="1.0">
+    <file source-language="en" target_language="de" datatype="plaintext" original="messages" date="2017-05-12T23:53:00Z">
+        <header>
+            <generator>LFEditor</generator>
+        </header>
+        <body>
+            <trans-unit id="livechatinc.tca.pages.exclude_livechat_from_page">
+                <source>Live Chat</source>
+                <target>Live Chat</target>
+            </trans-unit>
+            <trans-unit id="livechatinc.tca.pages.exclude_livechat_from_page.label">
+                <source>Hide on Page</source>
+                <target>Auf Seite ausblenden</target>
+            </trans-unit>
+        </body>
+    </file>
+</xliff>
