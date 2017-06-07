@@ -22,7 +22,7 @@ You need an an account created at https://www.livechatinc.com',
     'uploadfolder' => '0',
     'createDirs' => '',
     'clearCacheOnLoad' => 0,
-    'version' => '0.0.0',
+    'version' => '1.0.0',
     'constraints' => [
         'depends' => [
             'typo3' => '8.6.0-8.7.99',
