@@ -11,9 +11,11 @@
  ***************************************************************/
 
 $EM_CONF[$_EXTKEY] = [
-    'title' => 'Livechat Inc',
-    'description' => 'Integrate the Live Chat from www.livechatinc.com in your TYPO3 Page. 
-You need an an account created at https://www.livechatinc.com',
+    'title' => 'LiveChat',
+    'description' => 'LiveChat – live chat software and help desk software for customer service. Live chat allows website visitors to contact you in real-time. Help desk software is used to online visitors find what they need before they leave your site.
+You can try LiveChat free for 30 days! If you are interested you can signup here: https://www.livechatinc.com/signup/
+If you nev: http://www.livechatinc.com/why-livechat/
+The extension requires active LiveChat subscription after 30 days of free trial.',
     'category' => 'services',
     'author' => 'Benjamin Riezler',
     'author_email' => 'typo3@pixel-ink.de',
@@ -22,7 +24,7 @@ You need an an account created at https://www.livechatinc.com',
     'uploadfolder' => '0',
     'createDirs' => '',
     'clearCacheOnLoad' => 0,
-    'version' => '1.0.0',
+    'version' => '1.0.1',
     'constraints' => [
         'depends' => [
             'typo3' => '8.6.0-8.7.99',
