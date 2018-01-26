@@ -1,6 +1,7 @@
 {
     "name": "pixelink/livechatinc",
     "type": "typo3-cms-extension",
+    "version": "1.0.1",
     "description": "Integrate LiveChat from www.livechatinc.com in your TYPO3 Page. \nYou need an an account created at https://www.livechatinc.com",
     "homepage": "https://www.livechatinc.com",
     "keywords": ["LiveChat", "Support Chat", "Chat"],
@@ -8,7 +9,8 @@
         {
             "name": "Benjamin Riezler",
             "role": "Developer",
-            "company": "Pixel Ink"
+            "company": "Pixel Ink",
+            "homepage": "https://www.pixel-ink.de"
         }
     ],
     "require": {
